@@ -1,0 +1,141 @@
+@media screen and (max-width: 1200px) {
+    .settings {
+        display: none;
+    }
+
+    .nav__button {
+        display: flex;
+    }
+
+    .header__main {
+        width: 400px;
+        padding: 5px 0 5px;
+    }
+
+    .header__logo {
+        width: 70px;
+        margin-left: 20px;
+    }
+
+    .nav {
+        display: none;
+    }
+
+    .header__info {
+        height: 200px;
+    }
+
+    .header__description {
+        width: 400px;
+    }
+
+    .games__top {
+        height: 250px;
+    }
+
+    .wrapper {
+        border: 0px solid transparent;
+        padding: 0px;
+    }
+
+    .games__list {
+        column-gap: 5px;
+    }
+
+    .games__img {
+        height: 100px;
+    }
+
+    .releaser {
+        padding: 10px 0;
+        height: 120px;
+    }
+
+    .releaser__id {
+        width: 0px;
+    }
+
+    .releaser__photo {
+        width: 70px;
+        height: 70px;
+    }
+
+    .releaser__description {
+        color: transparent;
+    }
+
+    .releaser__name {
+        font-size: 16px;
+    }
+
+    .content {
+        padding: 10px 0;
+    }
+
+    .content__block {
+        height: 600px;
+        row-gap: 1px;
+        margin-top: 1px;
+    }
+
+    .content__id {
+        width: 30%;
+        padding: 5px;
+    }
+
+    .poster {
+        width: 120px;
+        height: 70px;
+    }
+
+    .content__description, .title__name {
+        font-size: 14px;
+    }
+
+    .function {
+        padding-left: 90px;
+        column-gap: 3px;
+    }
+
+    .option {
+        width: 5px;
+        height: 5px;
+    }
+
+    .news {
+        height: 250px;
+    }
+
+    .news__left, .news__right {
+        height: 230px;
+        width: 200px;
+        margin-top: 10px;
+    }
+
+    .news__title {
+        padding-top: 10px;
+        margin-left: 10px;
+    }
+
+    .short__description {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .news__left button, .news__right button {
+        width: 100px;
+        height: 20px;
+        margin-left: 10px;
+    }
+
+    .footer {
+        height: 30px;
+        padding: 0 50px;
+        column-gap: 5px;
+    }
+
+    .footer__link {
+        width: 5px;
+        height: 5px;
+    }
+}
